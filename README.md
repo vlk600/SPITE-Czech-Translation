@@ -1,28 +1,28 @@
-# SPITE – neoficiální český překlad 🇨🇿
+# SPITE – Neoficiální český překlad 🇨🇿
 
-Fanouškovská lokalizace hry **SPITE** do češtiny. Projekt není oficiálně spojen s vývojářem hry.
+Fanouškovská česká lokalizace hry **SPITE**. Nejde o oficiální překlad ani o projekt schválený vývojářem.
 
-## Stav projektu
-- **v26** – česká lokalizace, otestovaná hráčem; drobné chyby se stále mohou objevit.
-- **BONUS v26** – stejná lokalizace, navíc 100% jackpot v automatu a 75% úspěšné pásmo v posilovně.
-- **Zatím neveřejné** – připravujeme distribuci a ověřujeme souhlas vývojáře.
+**Verze překladu:** 1.0  
+**Podporovaná verze hry:** SPITE 1.7.0  
+**Systém:** Windows
 
-## Plánované varianty
-1. **Čistá čeština:** pouze překlad, bez změn herní logiky.
-2. **BONUS:** čeština a dvě volitelné úpravy herních mechanik.
+## Stažení
+Aktuální vydání: https://github.com/vlk600/SPITE-Czech-Translation/releases/latest
 
-Obě varianty budou **patch pro vlastní kopii hry**, nikoli kompletní herní archiv.
+V části **Assets** stáhněte ZIP s překladem, nikoliv automatické archivy *Source code*.
 
-## Instalace (po vydání)
-1. Zálohujte si původní soubor `app.asar`.
-2. Stáhněte si jednu z variant překladu a rozbalte ZIP (například ve WinRARu).
-3. Spusťte přiložený `INSTALOVAT_CESTINU.bat` ve Windows a postupujte podle instrukcí.
-4. Vytvořený český `app.asar` vložte do hry podle přiloženého návodu.
+## Co překlad obsahuje
+České dialogy, vypravěčské texty, rozhodnutí, příběhové scény, herní nabídky a další texty. Překlad byl testován během několika průchodů hrou; případné další chyby nelze vyloučit.
 
-Instalátor nevyžaduje Python. Patch je určen pro kompatibilní původní verzi hry; po aktualizaci hry nemusí fungovat.
+**Toto vydání obsahuje pouze češtinu, bez úprav herních mechanik.**
 
-## Hlášení chyb
-Při nálezu nepřeloženého textu uveďte místo výskytu a ideálně přiložte screenshot.
+## Instalace
+Postup je součástí ZIP archivu. Rozbalte jej například pomocí WinRARu a spusťte `INSTALOVAT_CESTINU.bat`. Instalace používá prostředky systému Windows, Python není potřeba. Patch vyžaduje kompatibilní originální `app.asar` z vlastní kopie hry. Před instalací jej zálohujte.
+
+Po aktualizaci hry nemusí překlad fungovat a může být potřeba nové vydání.
+
+## Chyby a připomínky
+Pokud objevíte nepřeložený text nebo problém, uveďte místo ve hře a ideálně přiložte screenshot.
 
 ## Práva
-SPITE a její původní obsah patří příslušným držitelům práv. Lokalizace je neoficiální projekt. Žádný úplný herní archiv zde nebude zveřejněn bez příslušného oprávnění.
+Původní obsah hry náleží příslušným držitelům práv. Jde o bezplatný neoficiální fanouškovský patch; neobsahuje kompletní herní archiv.
